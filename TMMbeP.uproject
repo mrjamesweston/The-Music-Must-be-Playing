@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A5CE0497-4966-7346-84FA-EDBCD386AC2A}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "VictoryBPLibrary",
+			"Enabled": false,
+			"MarketplaceURL": "http://www.ue4code.com"
+		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
+	]
+}
